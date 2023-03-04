@@ -28,6 +28,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvu15&" alt="huyvu15" /></p>
 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRjZTAyZGExNWQxY2RjODVmYzY4NmE0MDY1YTA4MzJiOTZmNTBiOCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif)
+
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
