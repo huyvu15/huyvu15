@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Huy Vũ</h1>
-<h3 align="center">I'm a developer and a Computer Science engineer</h3>
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
+
+<h3 align="center">I'm a developer and a Computer Science Engineer</h3>
 
 
 - 🔭 I’m currently studying in **Ha Noi university of Science and Technology**
@@ -29,6 +31,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvu15&" alt="huyvu15" /></p>
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRjZTAyZGExNWQxY2RjODVmYzY4NmE0MDY1YTA4MzJiOTZmNTBiOCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif)
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Huyvu15&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
 
 
 ### ✍️Random Dev Quote
