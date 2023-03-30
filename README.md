@@ -44,3 +44,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=huyvu15&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/huyvu15/count.svg" />
+</p>
