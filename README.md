@@ -1,12 +1,12 @@
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
 
 <h3 align="center">I'm a developer and a Computer Science Engineer</h3>
 
 
 - 🔭 I’m currently studying in **Ha Noi university of Science and Technology**
 
-- 🌱 I’m currently learning **Python,C/C++, Latex, ...**
+- 🌱 I’m currently learning **Python,C/C++, Latex, SQL ...**
 
 - 💬 Ask me about **Some Project for Game, AI, Data Engineer,Software Developer...(visual)**
 
