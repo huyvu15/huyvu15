@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Python,C/C++, Latex, SQL ...**
 
-- 💬 Ask me about **Some Project for Game, AI, Data Engineer,Software Developer...(visual)**
+- 💬 Ask me about **Some Project for Game, AI, Data Engineer,Software Developer ...(visual)**
 
 - 📫 How to reach me **huyv80313@gmail.com**
 
