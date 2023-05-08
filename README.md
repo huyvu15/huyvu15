@@ -21,7 +21,7 @@
 
 
 
- <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Contact  me 🤝 </h3>
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" style="margin-right: 100px;"> Contact  me 🤝 </h3>
 <p align="center">
   <a href="https://huyvu15.github.io/portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="huyv80313@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
