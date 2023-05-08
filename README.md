@@ -8,7 +8,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
 
-<h3 align="center"> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">I'm a developer and a Computer Science Engineer</h3>
+<h3 align="center"> I'm a developer and a Computer Science Engineer</h3>
 
 
 - 🔭 I’m currently studying in **Ha Noi university of Science and Technology**
@@ -47,7 +47,8 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="80%"/>
+        <!-- img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="80%"/ -->
+	<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="dev" width="80%">
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvu15&" alt="huyvu15" width = "1000%" /></p>
       </p>
     </td>
