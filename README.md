@@ -70,6 +70,6 @@
   <img src="https://profile-counter.glitch.me/huyvu15/count.svg" />
 </p> 
 
-### Productive time card
+<!--### Productive time card-->
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=nord_bright&utcOffset=2)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=nord_bright&utcOffset=2)-->
