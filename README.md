@@ -21,7 +21,6 @@
 - 📫 How to reach me **huyv80313@gmail.com**
 
 
-
 # <h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" style="margin-right: 50px;"> Contact  me 🤝 </h2>
 <p align="center">
   <a href="https://huyvu15.github.io/portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
