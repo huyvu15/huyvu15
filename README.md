@@ -74,3 +74,7 @@
 <!--### Productive time card-->
  
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=nord_bright&utcOffset=2)-->
+
+
+
+### Target longest streak up to 365 day
