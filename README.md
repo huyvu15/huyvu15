@@ -79,5 +79,5 @@
 
 Target longest streak up to 365 day.
 ## Some certificate
-![](https://github.com/huyvu15/Certificate)
+[Xem certificate của tui ở đây nè !](https://github.com/huyvu15/Certificate)
 
