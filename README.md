@@ -59,7 +59,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Huyvu15&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+[![Vu Huy github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huyvu15&theme=dracula)](https://github.com/huyvu15/github-readme-activity-graph)
 
 
 ### ✍️Random Dev Quote 
