@@ -77,7 +77,7 @@
 
 
 
-Target longest streak up to 365 day.
+> Target longest streak up to 365 day.
 ## Some certificate
 [Watch my certificate at here!](https://github.com/huyvu15/Certificate)
 
