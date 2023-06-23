@@ -80,11 +80,12 @@
 > Target longest streak up to 365 day.
 ## Some certificate
 [Watch my certificate at here!](https://github.com/huyvu15/Certificate)
-| STT |           Certificate	       |                     Link				   |
-|-----|--------------------------------|-----------------------------------------------------------|
-|  1  |Google IT Automation with Python|https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1|
-|  2  |         Git_and_Ruby           |https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg|
-|  3  |  ...  |   ...   |
-|  4  |  ...  |   ...   |
+| STT |           Certificate                 |                           Link                                      |  Year  |
+|-----|---------------------------------------|----------------------------------------------------------------------|--------|
+|  1  | Google IT Automation with Python(Coursera)       | [https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1](https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1)      |  2023  |
+|  2  | Git_and_Ruby(SOICT)                          | [https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg](https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg)|  2023  |
+|  3  | Google Data Analytics(Coursera)                                  | ...                                                                  |  Sắp tới   |
+|  4  | Data Engineering(AI4E)                                   | ...                                                                  |  Sắp tới   |
 
-Thank you for visiting \heart
+
+Thank you for visiting ❤️
