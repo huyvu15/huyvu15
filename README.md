@@ -84,7 +84,7 @@
 |-----|--------------------------------------------------|----------------------------------------------------------------------|--------|
 |  1  | Google IT Automation with Python(Coursera)       | [https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1](https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1)      |  2023  |
 |  2  | Git_and_Ruby(SOICT)                          | [https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg](https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg)|  2023  |
-|  3  | Google Data Analytics(Coursera)                                  | ...                                                  |   Sắp tới   |
+|  3  | Google Data Analytics(Coursera)                                  | https://coursera.org/share/df8e94eef9386cc4cabb8bffe5ceb291 |   2023   |
 |  4  | Data Engineering(AI4E)                                   | ...                                                          |   Sắp tới   |
 |  5  |								|								|	      |
 
