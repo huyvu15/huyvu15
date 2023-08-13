@@ -83,8 +83,9 @@
 | STT |           Certificate                            |                           Link                                       |  Year  |
 |-----|--------------------------------------------------|----------------------------------------------------------------------|--------|
 |  1  | Google IT Automation with Python(Coursera)       | [https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1](https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1)      |  2023  |
-|  2  | Git_and_Ruby(SOICT)                          | [https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg](https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg)|  2023  |
+|  2  | Git_and_Ruby(SOICT)                              | [https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg](https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg)|  2023  |
 |  3  | Google Data Analytics(Coursera)                                  | https://coursera.org/share/df8e94eef9386cc4cabb8bffe5ceb291 |   2023   |
 |  4  |   LẬP TRÌNH PYTHON CƠ BẢN(Tek4)         | https://tek4.vn/chung-chi/chi-tiet/136                                                         |   2023   |
 |  5  |   Problem Solving(Hackerrank)					 |   https://www.hackerrank.com/certificates/ceaf7fbd6610			| 2023   |
+
 Thank you for visiting ❤️ 
