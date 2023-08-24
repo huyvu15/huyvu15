@@ -87,6 +87,6 @@
 |  3  | Google Data Analytics(Coursera)                  | https://coursera.org/share/df8e94eef9386cc4cabb8bffe5ceb291 |   2023   |
 |  4  |   LẬP TRÌNH PYTHON CƠ BẢN(Tek4)         	 | https://tek4.vn/chung-chi/chi-tiet/136                                                         |   2023   |
 |  5  |   Problem Solving(Hackerrank)			 |   https://www.hackerrank.com/certificates/ceaf7fbd6610			| 2023   |
-|  6  |   Google Project Managements(Coursera)  | https://www.coursera.org/account/accomplishments/specialization/certificate/5A92G2G6AW6L | 2023|
+|  6  |   Google Project Managements(Coursera)  | https://coursera.org/share/f737a7b23e99bf7c12e059a2f5c0a13f | 2023|
 
 Thank you for visiting ❤️ 
