@@ -49,8 +49,8 @@
     <td>
       <p align="center"> 
         <!-- img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="80%"/ -->
-	<!--img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="dev" width="80%"-->
-	<img align='right' src="https://nordiccoder.com/app/uploads/2019/03/front-end-developers-openings-1.gif" alt="dev" width="80%">
+	<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="dev" width="80%"
+	<!--<img align='right' src="https://nordiccoder.com/app/uploads/2019/03/front-end-developers-openings-1.gif" alt="dev" width="80%"> -->
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huyvu15&" alt="huyvu15" width = "1000%" /></p>
       </p>
     </td>
