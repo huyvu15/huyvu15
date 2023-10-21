@@ -95,5 +95,5 @@
 |  5  |   Problem Solving(Hackerrank)			 | https://www.hackerrank.com/certificates/ceaf7fbd6610				|   2023  |
 |  6  |   Google Project Managements(Coursera)  	 | https://coursera.org/share/f737a7b23e99bf7c12e059a2f5c0a13f 			|   2023  |
 |  7  |   DATA ENGINEER(AI4E)			         | https://drive.google.com/drive/u/0/folders/1EIa150KxoVnb-KlP-kNCXa1uWbvGJVzS |   2023  |
-|  8  |                                                  |										| 	  |
+|  8  |                  ...                                |				....						| 	...  |
 Thank you for visiting ❤️ 
