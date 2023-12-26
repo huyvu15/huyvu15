@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently studying in **Ha Noi university of Science and Technology**
 
-- 🌱 I’m currently learning **Python,C/C++, Latex, SQL ...**
+- 🌱 I’m currently learning **Python,C/C++, Latex, SQL, HTML, CSS, JS,  ...**
 
-- 💬 Ask me about **Some Project for Game, AI, Data Engineer,Software Developer ...(visual)**
+- 💬 Ask me about **Some Project for Game, AI, Data Engineer,Software Developer ...**
 
 - 📫 How to reach me **huyv80313@gmail.com**
 
