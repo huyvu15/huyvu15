@@ -70,7 +70,7 @@
 
 ### ✍️Random Dev Quote 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=huyvu15&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -86,7 +86,8 @@
 
 
 > Target longest streak up to 365 day.
-> 
+>
+<!--
 ## Some certificate
 
 [Watch all my certificate at here!](https://github.com/huyvu15/Certificate)
@@ -103,6 +104,6 @@
 |  8  |   Cloud for beginner                             |https://www.udemy.com/certificate/UC-bb41f5df-32ce-42b5-9021-87c2cd166669/    |   2023  |
 |  9  |                  ...                                |				....						|    ...  |
 
-
+-->
 
 Thank you for visiting ❤️ 
