@@ -84,6 +84,23 @@
 [![Vu Huy github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huyvu15&theme=dracula)](https://github.com/huyvu15/github-readme-activity-graph)
 
 
+## </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Some certificate <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+
+[Watch all my certificate at here(than 100 cer)!](https://github.com/huyvu15/Certificate)
+
+| STT |           	 Certificate                     |                                      Link                                    |   Year  |
+|-----|--------------------------------------------------|------------------------------------------------------------------------------|---------|
+|  1  |   Google IT Automation with Python(Coursera)     | https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1          	|   2023  |
+|  2  |   Git_and_Ruby(SOICT)                            | https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg		|   2023  |
+|  3  |   Google Data Analytics(Coursera)                | https://coursera.org/share/df8e94eef9386cc4cabb8bffe5ceb291 			|   2023  |
+|  4  |   Lập trình python cơ bản(Tek4)         	 | https://tek4.vn/chung-chi/chi-tiet/136                               	|   2023  |
+|  5  |   Problem Solving(Hackerrank)			 | https://www.hackerrank.com/certificates/ceaf7fbd6610				|   2023  |
+|  6  |   Google Project Managements(Coursera)  	 | https://coursera.org/share/f737a7b23e99bf7c12e059a2f5c0a13f 			|   2023  |
+|  7  |   Data engineer(AI4E)			         | https://drive.google.com/drive/u/0/folders/1EIa150KxoVnb-KlP-kNCXa1uWbvGJVzS |   2023  |
+|  8  |   Cloud for beginner                             | https://www.udemy.com/certificate/UC-bb41f5df-32ce-42b5-9021-87c2cd166669/   |   2023  |
+|  9  |   Machine Learning(DeepLearning.AI)              | https://coursera.org/share/a287425616794b87b414107554a9e95a			|   2024  |
+|  10  |         ...        |  ...		|    ...  |
+
 ### ✍️Random Dev Quote 
 
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) -->
@@ -104,22 +121,7 @@
 > Target longest streak up to 365 day.
 
 
-## </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Some certificate <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
-[Watch all my certificate at here(than 100 cer)!](https://github.com/huyvu15/Certificate)
-
-| STT |           	 Certificate                     |                                      Link                                    |   Year  |
-|-----|--------------------------------------------------|------------------------------------------------------------------------------|---------|
-|  1  |   Google IT Automation with Python(Coursera)     | https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1          	|   2023  |
-|  2  |   Git_and_Ruby(SOICT)                            | https://github.com/huyvu15/Certificate/blob/main/Git_and_Ruby.jpg		|   2023  |
-|  3  |   Google Data Analytics(Coursera)                | https://coursera.org/share/df8e94eef9386cc4cabb8bffe5ceb291 			|   2023  |
-|  4  |   Lập trình python cơ bản(Tek4)         	 | https://tek4.vn/chung-chi/chi-tiet/136                               	|   2023  |
-|  5  |   Problem Solving(Hackerrank)			 | https://www.hackerrank.com/certificates/ceaf7fbd6610				|   2023  |
-|  6  |   Google Project Managements(Coursera)  	 | https://coursera.org/share/f737a7b23e99bf7c12e059a2f5c0a13f 			|   2023  |
-|  7  |   Data engineer(AI4E)			         | https://drive.google.com/drive/u/0/folders/1EIa150KxoVnb-KlP-kNCXa1uWbvGJVzS |   2023  |
-|  8  |   Cloud for beginner                             | https://www.udemy.com/certificate/UC-bb41f5df-32ce-42b5-9021-87c2cd166669/   |   2023  |
-|  9  |   Machine Learning(DeepLearning.AI)              | https://coursera.org/share/a287425616794b87b414107554a9e95a			|   2024  |
-|  10  |         ...        |  ...		|    ...  |
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
