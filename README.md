@@ -119,7 +119,7 @@
 
 
 > Target longest streak up to 365 day.
-
+> Target achieve 100 Repository in 2024
 
 
 
