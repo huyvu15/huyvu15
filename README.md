@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently studying in **Ha Noi university of Science and Technology**
 
-- 🌱 I’m currently learning **Python,C/C++, Latex, SQL, HTML, CSS, JS, R, TS,  ...**
+- 🌱 I’m currently learning **Python, C/C++, Latex, SQL, HTML, CSS, JS, R, TS, ...**
 
-- 💬 Ask me about **Some Project for Algorithm, Game, AI, Data Engineer,Software Developer, Quantitative Finance, Cloud(AWS) ...**
+- 💬 Ask me about **Some Project for Algorithm, Game, AI, Data Engineer, Software Developer, Quantitative Finance, Cloud(AWS) ...**
 
 - 📫 How to reach me **huyv80313@gmail.com**
 
@@ -29,7 +29,6 @@
 	<a href="https://www.facebook.com/profile.php?id=100042139878268"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/huyv015/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://www.youtube.com/@GluTis15"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
 </p>
  
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Language and tools <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70"> <!-- hình ngôi sao -->
@@ -111,11 +110,11 @@
 |  7  |   Data engineer(AI4E)			         | https://drive.google.com/drive/u/0/folders/1EIa150KxoVnb-KlP-kNCXa1uWbvGJVzS |   2023  |
 |  8  |   Cloud for beginner                             | https://www.udemy.com/certificate/UC-bb41f5df-32ce-42b5-9021-87c2cd166669/   |   2023  |
 |  9  |   Machine Learning(DeepLearning.AI)              | https://coursera.org/share/a287425616794b87b414107554a9e95a			|   2024  |
-|  10  |         ...        |  ...		|    ...  |
+|  10  |         Data Engineering(IBM)        |  ...		|    2024 |
 
 ### ✍️Random Dev Quote 
 
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue) -->
+[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=huyvu15&icon=0&color=0)](https://visitcount.itsvg.in)
