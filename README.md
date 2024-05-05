@@ -145,10 +145,10 @@
 <img src = "https://github.com/innng/innng/blob/master/assets/kyubey.gif" width = 85px> 
 
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/pth_1641?animation=true&border=1&ext=activity&font=Baloo_2&height=400&hide=&radius=4&theme=nord&width=1000" alt=""/>
+    <img src="https://leetcard.jacoblin.cool/huyvu15?animation=true&border=1&ext=activity&font=Baloo_2&height=400&hide=&radius=4&theme=nord&width=1000" alt=""/>
 </div>
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/pth_1641?animation=true&border=1&ext=heatmap&font=Baloo_2&height=400&hide=&radius=4&theme=nord&width=1000" alt=""/>
+    <img src="https://leetcard.jacoblin.cool/huyvu15?animation=true&border=1&ext=heatmap&font=Baloo_2&height=400&hide=&radius=4&theme=nord&width=1000" alt=""/>
 </div>
 
 Thank you for visiting ❤️ 
