@@ -1,9 +1,12 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <p align="center">
   <a href="https://github.com/huyvu15">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyvu15&theme=vue" alt="Huy Vu GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huyvu15&theme=vue" />
+    <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=vue&utcOffset=7"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyvu15&theme=vue" alt="GitHub Contribution"/>
   </a>
 </p> 
+
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&lines=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
