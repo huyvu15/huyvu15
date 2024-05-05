@@ -8,8 +8,11 @@
 </p> 
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&lines=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
+<!--   my-ticker  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
+--> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+V%C5%A9+Huy+.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
+
 <h2 align = "center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 
 <div align="center">
