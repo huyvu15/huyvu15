@@ -19,7 +19,10 @@
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" />
 </div>
 
-<h2 align = "left"> Hello everyone! </h2>
+ <!-- <h2 align = "left"> Hello everyone! </h2> --> 
+<h2> Hello Everyone! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 <h3 align="center"> I'm a developer and a Computer Science (Engineer)</h3>
 
 - 🔭 I’m currently studying in **Ha Noi university of Science and Technology**
