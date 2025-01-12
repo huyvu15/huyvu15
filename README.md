@@ -31,7 +31,7 @@
 <h2> Hello Everyone! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-<h3 align="center"> I'm a developer and a Computer Science (Engineer)</h3>
+<h3 align="center"> I'am aiming for the position of Big Data Engineer.</h3>
 
 - 🔭 I’m currently studying in **Ha Noi university of Science and Technology**
 
