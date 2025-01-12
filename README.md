@@ -6,8 +6,7 @@
 </div>
 -->
 
-<!-- # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  -->
-# About me...  
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  
 
 <p align="center">
   <a href="https://github.com/huyvu15">
