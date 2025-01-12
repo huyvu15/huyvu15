@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently studying in **Ha Noi university of Science and Technology**
 
-- 🌱 I’m currently learning **Python, C/C++, Latex, SQL, HTML, CSS, JS, R, TS, ...**
+- 🌱 I’m currently learning **Python, C/C++, Latex, SQL, HTML, CSS, JS, R, TS, Ruby,...**
 
 - 💬 Ask me about **Some Project for Algorithm, Game, AI, Data Engineer, Software Developer, Quantitative Finance, Cloud(AWS) ...**
 
@@ -117,12 +117,12 @@
 
 [![Vu Huy github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huyvu15&theme=dracula)](https://github.com/huyvu15/github-readme-activity-graph)
 
-
+<!--
 ## </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Some certificate <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 [Watch all my certificate at here(than 100 cer)!](https://github.com/huyvu15/Certificate)
 
-<!--
+
 | STT |           	 Certificate                     |                                      Link                                    |   Year  |
 |-----|--------------------------------------------------|------------------------------------------------------------------------------|---------|
 |  1  |   Google IT Automation with Python(Coursera)     | https://coursera.org/share/303dd61da51bb8b4231fad9d40b1bdc1          	|   2023  |
