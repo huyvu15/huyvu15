@@ -1,8 +1,10 @@
 <!--# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> -->
 
+<!--
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" />
 </div>
+-->
 
 <!-- # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  -->
 # About me...  
@@ -133,7 +135,7 @@
 |  8  |   Cloud for beginner                             | https://www.udemy.com/certificate/UC-bb41f5df-32ce-42b5-9021-87c2cd166669/   |   2023  |
 |  9  |   Machine Learning(DeepLearning.AI)              | https://coursera.org/share/a287425616794b87b414107554a9e95a			|   2024  |
 |  10  |         Data Engineering(IBM)        		 | https://coursera.org/share/d54205a49e0c2ce57e29e70b0ccacb5d			|    2024 |
--->
+
 
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/huyvu15?animation=true&border=1&ext=activity&font=Baloo_2&height=400&hide=&radius=4&theme=nord&width=1000" alt=""/>
@@ -141,7 +143,7 @@
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/huyvu15?animation=true&border=1&ext=heatmap&font=Baloo_2&height=400&hide=&radius=4&theme=nord&width=1000" alt=""/>
 </div>
-
+-->
 ### ✍️Random Dev Quote 
 
 [](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
@@ -156,13 +158,6 @@
 
  
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=nord_bright&utcOffset=2)-->
-
-
-
-> Target longest streak up to 365 day.
-> Target achieve 100 Repository in 2024
-
-
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
