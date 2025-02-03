@@ -6,6 +6,8 @@
 </div>
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+V%C5%A9+Huy+.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  
 
 <p align="center">
@@ -16,12 +18,10 @@
   </a>
 </p> 
 
-
-<!--   my-ticker  
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+V%C5%A9+Huy+.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
 -->
+
 <h2 align = "center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 
 
@@ -110,7 +110,6 @@
   </tr>
 </table>
 
-<!--   GitHub stats graph -->
 
 ### 📈 GitHub Activity Graph:
 
@@ -133,7 +132,7 @@
 |  7  |   Data engineer(AI4E)			         | https://drive.google.com/drive/u/0/folders/1EIa150KxoVnb-KlP-kNCXa1uWbvGJVzS |   2023  |
 |  8  |   Cloud for beginner                             | https://www.udemy.com/certificate/UC-bb41f5df-32ce-42b5-9021-87c2cd166669/   |   2023  |
 |  9  |   Machine Learning(DeepLearning.AI)              | https://coursera.org/share/a287425616794b87b414107554a9e95a			|   2024  |
-|  10  |         Data Engineering(IBM)        		 | https://coursera.org/share/d54205a49e0c2ce57e29e70b0ccacb5d			|    2024 |
+|  10 |         Data Engineering(IBM)        		 | https://coursera.org/share/d54205a49e0c2ce57e29e70b0ccacb5d			|   2024  |
 
 
 <div align="center">
