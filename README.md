@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+V%C5%A9+Huy+.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  
-
+<!--
 <p align="center">
   <a href="https://github.com/huyvu15">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huyvu15&theme=vue" />
@@ -17,6 +17,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyvu15&theme=vue" alt="GitHub Contribution"/>
   </a>
 </p> 
+-->
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&=Hi+there+👋,+I+am+Vũ+Huy;++Welcome+to+My+Profile!;+I+just+started+programmer;Always+learning+new+things+;+Passion+study+Data;Kaggle+community+member)](https://git.io/typing-svg)
@@ -68,7 +69,7 @@
 	<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 	<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
+<!--
 <img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
@@ -85,7 +86,7 @@
 	<!--! <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/> -->
 
 </div>
-
+-->
 <br><be> 
 
 # <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> Activities:
