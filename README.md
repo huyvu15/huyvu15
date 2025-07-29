@@ -184,7 +184,7 @@ Mac                      39 hrs 40 mins      ███████████�
 
 [](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
-
+<!--
 [![](https://visitcount.itsvg.in/api?id=huyvu15&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center"> 
@@ -192,8 +192,15 @@ Mac                      39 hrs 40 mins      ███████████�
   <img src="https://profile-counter.glitch.me/huyvu15/count.svg" />
 </p> 
 
- 
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=nord_bright&utcOffset=2)-->
+[](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huyvu15&theme=nord_bright&utcOffset=2) -->
+
+<p align="center">
+  Visitor count  
+  <br>
+  <img src="https://count.getloli.com/get/@huyvu15.github.readme" alt="visitor count">
+</p>
+
+
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
