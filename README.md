@@ -6,9 +6,8 @@
 </div>
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+V%C5%A9+Huy+.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
-
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"> About me...  
+
 <!--
 <p align="center">
   <a href="https://github.com/huyvu15">
@@ -25,7 +24,12 @@
 
 <h2 align = "center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=1000&pause=100&color=2288F7&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=Hi+there+%F0%9F%91%8B!;I'am+V%C5%A9+Huy+.;Always+learning+new+things.;Passion+study+Data%2C+Cloud%2C+AI.;First+Cloud+Journey+community+member.)](https://git.io/typing-svg)
+
+
 <h2> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Hello Everyone! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+
+
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 <h3 align="center"> I'am aiming for the position of Big Data Engineer.</h3>
